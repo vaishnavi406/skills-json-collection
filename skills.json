@@ -16,6 +16,14 @@
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
     ]
+  },
+  {
+    "name": "Kartika",
+    "skill": "c++",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/c++",
+      "https://c++.info/"
+    ]
   }
   {
     "name": "Anan28eng",
