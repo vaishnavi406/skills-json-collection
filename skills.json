@@ -3,7 +3,7 @@
     "name": "Kartik Shukla",
     "skill": "JavaScript",
     "resources": [
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       "https://javascript.info/",
       "https://www.youtube.com/"
     ]
@@ -12,13 +12,13 @@
     "name": "Anushri Pathak",
     "skill": "Python",
     "resources": [
-      "https://www.python.org/",
-      "https://www.youtube.com/"
+       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
     ]
   },
   {
     "name": "Kartika",
-    "skill": "C++",
+    "skill": "c++",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
