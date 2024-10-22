@@ -1,10 +1,10 @@
 [
   {
-    "name": "Kartik Shukla",
-    "skill": "JavaScript",
+    "name": "S Rohan Kumar",
+    "skill": "Python",
     "resources": [
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "https://javascript.info/"
+      "https://www.scaler.com/topics/course/python-for-beginners/",
+      "https://matplotlib.org/stable/api/pylab.html"
     ]
   }
 ]
