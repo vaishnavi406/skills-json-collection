@@ -4,27 +4,26 @@
     "skill": "JavaScript",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "https://javascript.info/"
+      "https://javascript.info/",
       "https://www.youtube.com/"
-      
     ]
   },
   {
     "name": "Anushri Pathak",
     "skill": "Python",
     "resources": [
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "https://javascript.info/"
+      "https://www.python.org/",
+      "https://www.youtube.com/"
     ]
   },
   {
     "name": "Kartika",
-    "skill": "c++",
+    "skill": "C++",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
-  }
+  },
   {
     "name": "Anan28eng",
     "skill": "C++",
@@ -32,11 +31,17 @@
       "https://www.w3schools.com/cpp/default.asp",
       "https://www.programiz.com/cpp-programming"
     ]
-  } 
-  
-  
-]
-[
+  },
+  {
+    "name": "Vignesh B S",
+    "skill": "Java, Python, C, C++, HTML",
+    "resources": [
+      "https://www.w3schools.com/",
+      "https://www.geeksforgeeks.org/",
+      "https://www.coursera.org/",
+      "https://www.kaggle.com/"
+    ]
+  },
   {
     "name": "Siddhant",
     "skill": "Python",
