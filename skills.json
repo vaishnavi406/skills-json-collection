@@ -5,8 +5,61 @@
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
+
       "https://www.coursera.org/learn/programming-with-javascript"
       "https://www.coursera.org/specializations/javascript-beginner"
+=======
+      "https://www.youtube.com/"
+      
+    ]
+  },
+  {
+    "name": "Anushri Pathak",
+    "skill": "Python",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  },
+  {
+    "name": "Kartika",
+    "skill": "c++",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/c++",
+      "https://c++.info/"
+    ]
+  }
+  {
+    "name": "Anan28eng",
+    "skill": "C++",
+    "resources": [
+      "https://www.w3schools.com/cpp/default.asp",
+      "https://www.programiz.com/cpp-programming"
+    ]
+  } 
+  
+  
+]
+[
+  {
+    "name": "Siddhant",
+    "skill": "Python",
+    "resources": [
+      "https://www.python.org/",
+      "https://www.youtube.com/watch?v=4M87qBgpafk"
+
     ]
   }
 ]
+[
+  {
+    "name": "Krish",
+    "skill": "Python",
+    "resources": [
+      "https://www.python.org/",
+      "https://www.coursera.org/learn/python-basics"
+
+    ]
+  }
+]
+
