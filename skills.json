@@ -5,6 +5,10 @@
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
+
+      "https://www.coursera.org/learn/programming-with-javascript"
+      "https://www.coursera.org/specializations/javascript-beginner"
+=======
       "https://www.youtube.com/"
       
     ]
@@ -43,6 +47,19 @@
     "resources": [
       "https://www.python.org/",
       "https://www.youtube.com/watch?v=4M87qBgpafk"
+
     ]
   }
 ]
+[
+  {
+    "name": "Krish",
+    "skill": "Python",
+    "resources": [
+      "https://www.python.org/",
+      "https://www.coursera.org/learn/python-basics"
+
+    ]
+  }
+]
+
