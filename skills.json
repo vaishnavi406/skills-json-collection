@@ -24,7 +24,7 @@
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
-  }
+  },
   {
     "name": "Anan28eng",
     "skill": "C++",
@@ -32,11 +32,7 @@
       "https://www.w3schools.com/cpp/default.asp",
       "https://www.programiz.com/cpp-programming"
     ]
-  } 
-  
-  
-]
-[
+  }, 
   {
     "name": "Siddhant",
     "skill": "Python",
