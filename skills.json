@@ -4,11 +4,11 @@
     "skill": "JavaScript",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "https://javascript.info/"
-
-      "https://www.coursera.org/learn/programming-with-javascript"
-      "https://www.coursera.org/specializations/javascript-beginner"
+      "https://javascript.info/",
+      "https://www.coursera.org/learn/programming-with-javascript",
+      "https://www.coursera.org/specializations/javascript-beginner",
       "https://www.youtube.com/"
+    ]
   },
   {
     "name": "Anushri Pathak",
@@ -16,12 +16,14 @@
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
+    ]
   },
   {
     "name": "Kartika",
-    "skill": "c++",
+    "skill": "C++",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
+    ]
   }
 ]
