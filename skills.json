@@ -44,5 +44,15 @@
       "https://www.python.org/",
       "https://www.youtube.com/watch?v=4M87qBgpafk"
     ]
+  },
+  {
+    "name": "Meghana",
+    "skill": "React javascript",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/React JavaScript",
+      "https://react javascript.info/"
+      "https://www.youtube.com/"
+      
+    ]
   }
 ]
