@@ -25,5 +25,13 @@
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
-  }
+  },
+   {
+    "name": "Sanjana",
+    "skill": "Python",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  },
 ]
