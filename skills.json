@@ -25,5 +25,12 @@
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
-  }
-]
+  },
+{
+    "name": "shruthi",
+    "skill": "C",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/c++",
+      "https://c.info/"
+    ]
+}
