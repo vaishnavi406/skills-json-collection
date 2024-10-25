@@ -1,13 +1,15 @@
 [
   {
-    "name": "Kartik Shukla",
-    "skill": "JavaScript",
+    "name": "S Rohan Kumar",
+    "skill": "Python",
     "resources": [
+      "https://www.scaler.com/topics/course/python-for-beginners/",
+      "https://matplotlib.org/stable/api/pylab.html",
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/",
       "https://www.coursera.org/learn/programming-with-javascript",
       "https://www.coursera.org/specializations/javascript-beginner",
-      "https://www.youtube.com/"
+      "https://www.youtube.com/",
     ]
   },
   {
@@ -26,6 +28,7 @@
       "https://c++.info/"
     ]
   },
+  
    {
     "name": "Sanjana",
     "skill": "Python",
@@ -34,4 +37,39 @@
       "https://javascript.info/"
     ]
   },
+  {
+    "name": "Tarun Kant",
+    "skill": "Bootstrap",
+    "resources": [
+    " https://www.w3schools.com/bootstrap/",
+    " https://www.codecademy.com/learn/learn-bootstrap",
+    " https://www.geeksforgeeks.org/courses/bootstrap",
+   ]
+  },
+  {
+    "name": "Anan28eng",
+    "skill": "C++",
+    "resources": [
+      "https://www.w3schools.com/cpp/default.asp",
+      "https://www.programiz.com/cpp-programming"
+    ]
+  },
+  {
+    "name": "Vignesh B S",
+    "skill": "Java, Python, C, C++, HTML",
+    "resources": [
+      "https://www.w3schools.com/",
+      "https://www.geeksforgeeks.org/",
+      "https://www.coursera.org/",
+      "https://www.kaggle.com/"
+    ]
+  },
+  {
+    "name": "Siddhant",
+    "skill": "Python",
+    "resources": [
+      "https://www.python.org/",
+      "https://www.youtube.com/watch?v=4M87qBgpafk"
+    ]
+  }
 ]
