@@ -27,5 +27,31 @@
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
+  },
+  {
+    "name": "Anan28eng",
+    "skill": "C++",
+    "resources": [
+      "https://www.w3schools.com/cpp/default.asp",
+      "https://www.programiz.com/cpp-programming"
+    ]
+  },
+  {
+    "name": "Vignesh B S",
+    "skill": "Java, Python, C, C++, HTML",
+    "resources": [
+      "https://www.w3schools.com/",
+      "https://www.geeksforgeeks.org/",
+      "https://www.coursera.org/",
+      "https://www.kaggle.com/"
+    ]
+  },
+  {
+    "name": "Siddhant",
+    "skill": "Python",
+    "resources": [
+      "https://www.python.org/",
+      "https://www.youtube.com/watch?v=4M87qBgpafk"
+    ]
   }
 ]
