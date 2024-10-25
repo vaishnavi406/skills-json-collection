@@ -4,12 +4,12 @@
     "skill": "Python",
     "resources": [
       "https://www.scaler.com/topics/course/python-for-beginners/",
-      "https://matplotlib.org/stable/api/pylab.html"
+      "https://matplotlib.org/stable/api/pylab.html",
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/",
       "https://www.coursera.org/learn/programming-with-javascript",
       "https://www.coursera.org/specializations/javascript-beginner",
-      "https://www.youtube.com/"
+      "https://www.youtube.com/",
     ]
   },
   {
@@ -27,6 +27,15 @@
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
+  },
+  {
+    "name": "Tarun Kant",
+    "skill": "Bootstrap",
+    "resources": [
+    " https://www.w3schools.com/bootstrap/",
+    " https://www.codecademy.com/learn/learn-bootstrap",
+    " https://www.geeksforgeeks.org/courses/bootstrap",
+   ]
   },
   {
     "name": "Anan28eng",
