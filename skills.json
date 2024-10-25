@@ -5,6 +5,27 @@
     "resources": [
       "https://www.scaler.com/topics/course/python-for-beginners/",
       "https://matplotlib.org/stable/api/pylab.html"
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/",
+      "https://www.coursera.org/learn/programming-with-javascript",
+      "https://www.coursera.org/specializations/javascript-beginner",
+      "https://www.youtube.com/"
+    ]
+  },
+  {
+    "name": "Anushri Pathak",
+    "skill": "Python",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  },
+  {
+    "name": "Kartika",
+    "skill": "C++",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/c++",
+      "https://c++.info/"
     ]
   }
 ]
