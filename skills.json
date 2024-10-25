@@ -28,6 +28,15 @@
       "https://c++.info/"
     ]
   },
+  
+   {
+    "name": "Sanjana",
+    "skill": "Python",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  },
   {
     "name": "Tarun Kant",
     "skill": "Bootstrap",
