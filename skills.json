@@ -7,4 +7,12 @@
       "https://javascript.info/"
     ]
   }
+  {
+   "name": "Nagalakshmi",
+    "skill": "CSS",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "https://web.dev/learn/css" 
+     ]
+   }
 ]
