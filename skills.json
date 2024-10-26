@@ -80,5 +80,13 @@
       "https://www.youtube.com/"
       
     ]
+  },
+  {
+    "name": "Paraj Prasad",
+    "skill": "Python",
+    "resources": [
+      "https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python",
+      "https://www.geeksforgeeks.org/python-programming-language-tutorial/"
+    ]
   }
 ]
