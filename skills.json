@@ -81,4 +81,11 @@
       
     ]
   }
+  {
+    "name": "Akshar",
+    "skill": "Python",
+    "resources": [
+      "https://www.python.org/",
+      "https://www.youtube.com/bro-code"
+    ]
 ]
