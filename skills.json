@@ -81,4 +81,13 @@
       
     ]
   }
+  {
+     "name": "Sri Raksha M",
+    "skill": "Java, Python, C, C++, HTML",
+    "resources": [
+      "https://www.w3schools.com/java/",
+      "https://www.geeksforgeeks.org/",
+      "https://www.coursera.org/",
+    ]
+  }
 ]
