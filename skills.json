@@ -98,4 +98,14 @@
       "https://www.python.org/",
       "https://www.youtube.com/bro-code"
     ]
+  }
+  {
+    "name": "Vishwas Naveen",
+    "skill": "HTML, CSS, UI/UX",
+    "resources": [
+      "https://www.geeksforgeeks.org/html-tutorial/",
+      "https://www.coursera.org/collections/learn-css",
+      "https://youtu.be/wIuVvCuiJhU?si=TlvBHGbyXeUgJbRf"
+      ]
+  }
 ]
