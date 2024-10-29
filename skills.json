@@ -92,6 +92,16 @@
     ]
   },
   {
+    "name": "Sri Raksha M",
+    "skill": " C++",
+    "resources": [
+      "https://www.w3schools.com/cpp/",
+      "https://www.tutorialspoint.com/cplusplus/index.htm"
+      "https://www.codechef.com/practice/cpp"
+      
+    ]
+  },
+  {
     "name": "Madhvesh",
     "skill": "C++",
     "resources": [
