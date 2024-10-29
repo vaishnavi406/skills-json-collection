@@ -92,6 +92,16 @@
     ]
   },
   {
+    "name": "Suhanva Kulkarni",
+    "skill": "React javascript",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/React JavaScript",
+      "https://react javascript.info/",
+      "https://www.youtube.com/"
+      
+    ]
+},
+{
     "name": "Tanish",
     "skill": "Java",
     "resources": [
