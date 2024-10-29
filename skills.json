@@ -99,6 +99,7 @@
       "https://www.youtube.com/bro-code"
     ]
      },
+
   {
     "name": "Yuktha",
     "skill": "c++,R,JAVA",
@@ -108,4 +109,14 @@
       "https://www.javatpoint.com/java-try-with-resources",
       "https://roadmap.sh/cpp"
     ]
+  },
+  {
+    "name": "Vishwas Naveen",
+    "skill": "HTML, CSS, UI/UX",
+    "resources": [
+      "https://www.geeksforgeeks.org/html-tutorial/",
+      "https://www.coursera.org/collections/learn-css",
+      "https://youtu.be/wIuVvCuiJhU?si=TlvBHGbyXeUgJbRf"
+      ]
+  }
 ]
