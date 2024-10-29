@@ -173,6 +173,13 @@
       "https://www.coursera.org/collections/learn-css",
       "https://youtu.be/wIuVvCuiJhU?si=TlvBHGbyXeUgJbRf"
       ]
-  }
-
+  },
+  {
+   "name": "Nagalakshmi",
+    "skill": "CSS",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "https://web.dev/learn/css" 
+     ]
+   }
 ]
