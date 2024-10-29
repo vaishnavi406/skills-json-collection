@@ -98,4 +98,14 @@
       "https://www.python.org/",
       "https://www.youtube.com/bro-code"
     ]
+     },
+  {
+    "name": "Yuktha",
+    "skill": "c++,R,JAVA",
+    "resources": [
+      "https://www.w3schools.com/java/",
+      "https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_Keyword_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=Keyword&topic=R_%28Programming_Language%29&priority=Beta&utm_content=deal4584&utm_term=_._ag_1327112923137645_._ad__._kw_R+classes_._de_c_._dm__._pl__._ti_kwd-82945677936291%3Aloc-90_._li_155441_._pd__._&matchtype=b&msclkid=a4a3e36431c8110f3f4a8444e798daac&couponCode=IND21PM",
+      "https://www.javatpoint.com/java-try-with-resources",
+      "https://roadmap.sh/cpp"
+    ]
 ]
