@@ -91,6 +91,15 @@
       
     ]
   },
+  {
+    "name": "Tanish",
+    "skill": "Java",
+    "resources": [
+      "https://www.w3schools.com/java/",
+      "https://www.javatpoint.com/java-tutorial"
+      
+    ]
+},
    {
     "name": "S",
     "skill": "Python",
