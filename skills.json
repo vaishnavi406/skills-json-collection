@@ -1,23 +1,12 @@
 [
   {
     "name": "vaishnavi",
+    "skill": "YouTube",
     "skill": "JavaScript",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
       ]
-  }
-
-    "skill": "Python",
-    "resources": [
-      "https://www.scaler.com/topics/course/python-for-beginners/",
-      "https://matplotlib.org/stable/api/pylab.html",
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "https://javascript.info/",
-      "https://www.coursera.org/learn/programming-with-javascript",
-      "https://www.coursera.org/specializations/javascript-beginner",
-      "https://www.youtube.com/"
-    ]
   },
   {
     "name": "Anushri Pathak",
@@ -232,4 +221,4 @@
       "https://javascript.info/"
     ]
   }
-]
+
