@@ -1,6 +1,13 @@
 [
   {
     "name": "vaishnavi",
+    "skill": "JavaScript",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+      ]
+  }
+
     "skill": "Python",
     "resources": [
       "https://www.scaler.com/topics/course/python-for-beginners/",
@@ -207,14 +214,22 @@
       "https://www.geeksforgeeks.org/html-tutorial/",
       "https://www.coursera.org/collections/learn-css",
       "https://youtu.be/wIuVvCuiJhU?si=TlvBHGbyXeUgJbRf"
-      ]
+    ]
   },
   {
-   "name": "Nagalakshmi",
+    "name": "Nagalakshmi",
     "skill": "CSS",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "https://web.dev/learn/css" 
-     ]
-   }
+      "https://web.dev/learn/css"
+    ]
+  },
+  {
+    "name": "vaishnavi",
+    "skill": "JavaScript",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  }
 ]
