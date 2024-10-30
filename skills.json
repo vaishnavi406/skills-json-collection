@@ -2,15 +2,11 @@
   {
     "name": "vaishnavi",
     "skill": "YouTube",
+    "skill": "JavaScript",
     "resources": [
-      "https://www.scaler.com/topics/course/python-for-beginners/",
-      "https://matplotlib.org/stable/api/pylab.html",
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "https://javascript.info/",
-      "https://www.coursera.org/learn/programming-with-javascript",
-      "https://www.coursera.org/specializations/javascript-beginner",
-      "https://www.youtube.com/"
-    ]
+      "https://javascript.info/"
+      ]
   },
   {
     "name": "Anushri Pathak",
@@ -26,6 +22,14 @@
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
+    ]
+  },
+  {
+    "name": "harshitha",
+    "skill": "Python",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
     ]
   },
 {
@@ -199,14 +203,22 @@
       "https://www.geeksforgeeks.org/html-tutorial/",
       "https://www.coursera.org/collections/learn-css",
       "https://youtu.be/wIuVvCuiJhU?si=TlvBHGbyXeUgJbRf"
-      ]
+    ]
   },
   {
-   "name": "Nagalakshmi",
+    "name": "Nagalakshmi",
     "skill": "CSS",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "https://web.dev/learn/css" 
-     ]
-   }
-]
+      "https://web.dev/learn/css"
+    ]
+  },
+  {
+    "name": "vaishnavi",
+    "skill": "JavaScript",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  }
+
